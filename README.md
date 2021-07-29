@@ -3,4 +3,4 @@ The algorithm of calculator using problem solving skill
 
 
 **What need to be fix ?**
-> the Calculator must be can handle float numbers
+> the Calculator must can handle float numbers
