@@ -9,7 +9,7 @@ let calcNumbers = ''; // the main numbers
 
 prompt.get(['numbers'], (err, result) => {
 	calcNumbers = result.numbers;
-	console.log(`You input: ${calcNumbers}\n`);
+	console.log(`You input: ${chalk.yellow(`${calcNumbers}`)}\n`);
 	start();
 });
 
